@@ -6,8 +6,6 @@
 - 👯 I’m looking to connect with other researchers
 - 🧘‍♂️ I love to meditate (the I is questionable)
 - 🥅 2022 Goals: Have a consistent sleep pattern 🤣
-- ⚡ Fun fact: I like to climb walls and play board games.
-
 
 ### Connect with me:
 
