@@ -21,3 +21,5 @@ nicholas.gecks@proton.me
 - Learn Mojo
 - Create an open source workout tracker
 - Open AI Integrations
+- Open Source Break the Chain Habit Tracker
+
