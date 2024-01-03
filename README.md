@@ -4,19 +4,20 @@
 - 🌱 I’m currently working on a project involving Bayesian Statistics 
 - 👯 I’m looking to connect with other researchers
 - 🧘‍♂️ I love to meditate (the I is questionable)
-- 🥅 2022 Goals: Have a consistent sleep pattern 🤣
+- 🥅 2024 Goal: 25 min/5 km 
 
 ### Connect with me:
-https://www.linkedin.com/in/nicholas-gecks-preston/
-nick.gecks.preston@gmail.com
+https://www.linkedin.cin/nicholas-gecks-preston/
+nicholas.gecks@proton.me
 
 ### Languages 
-- Julia
-- Python
-- R 
-- Matlab
-- SQL
+- R (Primary)
+- Python (Primary)
+- Matlab (Familiar) 
+- SQL (Familiar)
+- Julia (Learning)
 
-## Tools and Skills
-- Bayesian Statistics 
-- Molecular Biology 
+### Bucket list
+- Learn Mojo
+- Create an open source workout tracker
+- Open AI Integrations
